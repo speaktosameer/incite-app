@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845175058233",
+    "project_id": "incite-661cc",
+    "storage_bucket": "incite-661cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845175058233:android:dbb940a7c4f94025dfc2e8",
+        "android_client_info": {
+          "package_name": "com.app.incite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845175058233-8t7nqhabv7m7i7mjsspb8ja87im5q2a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.incite",
+            "certificate_hash": "08e07e25afa00a68c0b48b6b246739c2eac5b32c"
+          }
+        },
+        {
+          "client_id": "845175058233-kr2hikkijik4v4il82uhe3pt2e33sdif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.incite",
+            "certificate_hash": "341437852241147496d32229f110fe18b6f0695a"
+          }
+        },
+        {
+          "client_id": "845175058233-aqhs651f86c4l4le2km5b3t8vdjq1h9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5VYBg6UGBVdutpBd2VhdfJcfIT9yCRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845175058233-aqhs651f86c4l4le2km5b3t8vdjq1h9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
